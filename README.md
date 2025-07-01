@@ -75,4 +75,4 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-### Made with ❤️ using HTML, CSS & JavaScript
+### Made with ❤ using HTML, CSS & JavaScript
