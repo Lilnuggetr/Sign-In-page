@@ -46,7 +46,9 @@ project-folder/
 
 | Login Form | Signup Form | Forgot Password |
 |------------|-------------|-----------------|
-| ![login](screenshots/login.png) | ![signup](screenshots/signup.png) | ![forgot](screenshots/forgot.png) |
+| ![image](https://github.com/user-attachments/assets/e947ba0d-86ac-4c64-b490-9351d883a0b3) | ![image](https://github.com/user-attachments/assets/d82071ca-a17c-4172-982f-72bdb53d8a62) | ![image](https://github.com/user-attachments/assets/f62a7c62-c330-43b7-89b6-7e350abab18c)
+| ![image](https://github.com/user-attachments/assets/ba3cf96a-650e-4583-9aee-3fc4ffb70d70) | ![image](https://github.com/user-attachments/assets/275bf78f-4ce6-4478-bcea-81b3649c314f) | ![image](https://github.com/user-attachments/assets/7dedbe5f-2775-4f31-a7b2-017312f728ca)
+| ![image](https://github.com/user-attachments/assets/d8a68d44-ff35-42d2-8ddf-87c34b82a2ac) 
 
 _(You can create and place these screenshots in a `screenshots/` folder.)_
 
